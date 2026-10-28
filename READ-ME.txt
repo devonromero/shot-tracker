@@ -1,0 +1,1 @@
+Upload ONLY index.html to GitHub (github.com/devonromero/shot-tracker). Do not rename it.
